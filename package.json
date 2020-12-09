@@ -1,6 +1,6 @@
 {
   "name": "@telemetry-js/schedule-simple",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Schedule plugin to collect metrics on a fixed interval",
   "license": "MIT",
   "author": "Vincent Weevers",
